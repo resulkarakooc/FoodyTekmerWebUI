@@ -2,7 +2,7 @@
 
 The technologies we used for the mini project we wrote were:
 
-· Repository Design Pattern
+· Repository Design Pattern \n
 · N-Tier Architecture
 · Asp.Net Core MVC - 6.0
 · Dependency Injection
