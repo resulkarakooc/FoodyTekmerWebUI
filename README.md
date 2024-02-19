@@ -1,4 +1,4 @@
-![Alt   Tekmer](https://miro.medium.com/v2/resize:fit:1358/1*ymVNbsdd7KxHXHC4-LP7kw.png)
+![Alt   Tekmer](https://dannymcgee.gallerycdn.vsassets.io/extensions/dannymcgee/csharp-grammar-extended/1.1.1/1576121453694/Microsoft.VisualStudio.Services.Icons.Default)
 
 The technologies we used for the mini project we wrote were:
 
